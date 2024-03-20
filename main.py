@@ -29,7 +29,6 @@ while(True):
             txt = input()
         translation = t.handleTranslate(txt.lower())
 
-
     elif int(txtIn) == 3:
         print("Ok, quale parola devo cercare?")
         txt = input()
